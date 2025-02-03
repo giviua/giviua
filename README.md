@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on clasikitchen MC
-- 🌱 I’m currently learning english B2
-- 💬 Ask me about pronouncing of slay
-- 📫 How to reach me: thera_mc@ukr.net
-- 😄 Pronouns: slay
-- ⚡ Fun fact: I became popular cuz of my phrase which is "Im so slay!"
+- 🔭 I’m currently working on GiviK Studio
+- 🌱 I’m currently studying C1
+- 💬 Ask me about something
+- 📫 How to reach me: admin@givik.top
+- 😄 Pronouns: GiviK
+- ⚡ Fun fact: huh
 
